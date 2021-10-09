@@ -1,0 +1,61 @@
+commit 0896b33a586bc20a00c145f0752a78452aeffae6
+Merge: 09a0968 d22d8d1
+Author: filozofoleh <oleg.filozof@gmail.com>
+Date:   Sun Jul 4 01:16:43 2021 +0300
+
+    0.9
+
+commit 09a09682fe1332efaa71e5491233adf7c46eef09
+Merge: e425afd c1845fc
+Author: filozofoleh <oleg.filozof@gmail.com>
+Date:   Sun Jul 4 01:13:33 2021 +0300
+
+    0.7
+
+commit d22d8d16fcc112f15cfe70f8f0b7a603e4eecb19
+Author: filozofoleh <oleg.filozof@gmail.com>
+Date:   Sun Jul 4 00:46:01 2021 +0300
+
+    0.6
+
+commit c1845fca9a6ced329543bc6c31e7785f1d196e05
+Author: filozofoleh <oleg.filozof@gmail.com>
+Date:   Sun Jul 4 00:41:27 2021 +0300
+
+    0.5
+
+commit e425afd4746683ad55fd696d4c78d5c3c20c4911
+Author: filozofoleh <oleg.filozof@gmail.com>
+Date:   Sun Jul 4 00:36:11 2021 +0300
+
+    0.4
+
+commit 2b24904c3cb12541d9afe1c1499bbadb2890febf
+Author: filozofoleh <oleg.filozof@gmail.com>
+Date:   Sun Jul 4 00:16:23 2021 +0300
+
+    0.3
+
+commit 0d6e5910cf5692f02daf2cff7d36adf58dc75987
+Author: filozofoleh <oleg.filozof@gmail.com>
+Date:   Sun Jul 4 00:07:52 2021 +0300
+
+    0.2
+
+commit 142c3598d0435054005a00533073e7060fa8800f
+Author: filozofoleh <oleg.filozof@gmail.com>
+Date:   Sat Jul 3 23:56:45 2021 +0300
+
+    0.1
+
+commit 57ee632d1ddcca3c1be52de6c7d091671deddacb
+Author: filozofoleh <oleg.filozof@gmail.com>
+Date:   Sat Jul 3 23:52:20 2021 +0300
+
+    init commit
+
+commit 8d5b06dd22e4db9c596f24e118a9e3ba1abe1f10
+Author: filozofoleh <62285373+filozofoleh@users.noreply.github.com>
+Date:   Sat Jul 3 23:40:42 2021 +0300
+
+    Create devops.gitkeep
