@@ -1,12 +1,10 @@
-<h1>Links on completed AWS Hands-on Labs & QWIK Labs<h1>
-
 <section  class="about section">
 
 <div  class="section-inner">
 
   
 
-<h2  class="heading"  style ="color:#3AAA64;"><img  src="aws.png"  width="50"  height="50"  >&nbsp &nbsp &nbsp My Hands-on tutorial AWS LABS</h2>
+<h2  class="heading"  style ="color:#3AAA64;"> My Hands-on tutorial AWS LABS</h2>
 
 <div  class="content">
 
@@ -70,21 +68,16 @@
 
 </div>
 
+
 <div  class="item">
 
-<h3  class="title"  ><a  style ="color:#545e69;"  href="https://aws.amazon.com/getting-started/hands-on/deploy-docker-containers/?nc1=h_ls">10. Deploy Docker Containers on Amazon Elastic Container Service (Amazon ECS)</a></h3>
+<h3  class="title"  ><a  style ="color:#545e69;"  href="https://aws.amazon.com/getting-started/hands-on/create-connect-postgresql-db/">10. Create and Connect to a PostgreSQL Database with Amazon RDS</a></h3>
 
 </div>
 
 <div  class="item">
 
-<h3  class="title"  ><a  style ="color:#545e69;"  href="https://aws.amazon.com/getting-started/hands-on/create-connect-postgresql-db/">11. Create and Connect to a PostgreSQL Database with Amazon RDS</a></h3>
-
-</div>
-
-<div  class="item">
-
-<h3  class="title"><a  style ="color:#545e69;"  href="https://aws.amazon.com/getting-started/hands-on/create-mysql-db/">12. Create and Connect to a MySQL Database with Amazon RDS</a></h3>
+<h3  class="title"><a  style ="color:#545e69;"  href="https://aws.amazon.com/getting-started/hands-on/create-mysql-db/">11. Create and Connect to a MySQL Database with Amazon RDS</a></h3>
 
 </div>
 
@@ -103,19 +96,22 @@
 
 <div  class="section-inner">
 
-<h2  class="heading"  style ="color:#3AAA64;"  ><img  src="qwik.png"  width="50"  height="50"  >&nbsp &nbsp &nbsp My QWIKLABS</h2>
+<h2  class="heading"  style ="color:#3AAA64;"  >My QWIKLABS</h2>
 
 <div  class="content">
 
   
 
-<div  class="item">
+  
+  <div  class="item">
 
-<h3  class="title"  ><a  style ="color:#545e69;"  ref="https://run.qwiklabs.com/focuses/18123?catalog_rank=%7B%22rank%22%3A21%2C%22num_filters%22%3A2%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=11920754">
+<h3  class="title"><a  style ="color:#545e69;"  href="https://run.qwiklabs.com/focuses/18123?catalog_rank=%7B%22rank%22%3A21%2C%22num_filters%22%3A2%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=11920754">
 1. Introduction to AWS Lambda</a></h3>
-
 </div>
-
+  
+  
+  
+  
 <div  class="item">
 
 <h3  class="title"><a  style ="color:#545e69;"  href="https://run.qwiklabs.com/focuses/15612?catalog_rank=%7B%22rank%22%3A1%2C%22num_filters%22%3A2%2C%22has_search%22%3Atrue%7D&parent=catalog&search_id=11924630">
