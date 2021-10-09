@@ -68,21 +68,16 @@
 
 </div>
 
+
 <div  class="item">
 
-<h3  class="title"  ><a  style ="color:#545e69;"  href="https://aws.amazon.com/getting-started/hands-on/deploy-docker-containers/?nc1=h_ls">10. Deploy Docker Containers on Amazon Elastic Container Service (Amazon ECS)</a></h3>
+<h3  class="title"  ><a  style ="color:#545e69;"  href="https://aws.amazon.com/getting-started/hands-on/create-connect-postgresql-db/">10. Create and Connect to a PostgreSQL Database with Amazon RDS</a></h3>
 
 </div>
 
 <div  class="item">
 
-<h3  class="title"  ><a  style ="color:#545e69;"  href="https://aws.amazon.com/getting-started/hands-on/create-connect-postgresql-db/">11. Create and Connect to a PostgreSQL Database with Amazon RDS</a></h3>
-
-</div>
-
-<div  class="item">
-
-<h3  class="title"><a  style ="color:#545e69;"  href="https://aws.amazon.com/getting-started/hands-on/create-mysql-db/">12. Create and Connect to a MySQL Database with Amazon RDS</a></h3>
+<h3  class="title"><a  style ="color:#545e69;"  href="https://aws.amazon.com/getting-started/hands-on/create-mysql-db/">11. Create and Connect to a MySQL Database with Amazon RDS</a></h3>
 
 </div>
 
