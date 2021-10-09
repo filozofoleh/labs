@@ -1,12 +1,10 @@
-<h1>Links on completed AWS Hands-on Labs & QWIK Labs<h1>
-
 <section  class="about section">
 
 <div  class="section-inner">
 
   
 
-<h2  class="heading"  style ="color:#3AAA64;"><img  src="aws.png"  width="50"  height="50"  >&nbsp &nbsp &nbsp My Hands-on tutorial AWS LABS</h2>
+<h2  class="heading"  style ="color:#3AAA64;"> My Hands-on tutorial AWS LABS</h2>
 
 <div  class="content">
 
@@ -103,7 +101,7 @@
 
 <div  class="section-inner">
 
-<h2  class="heading"  style ="color:#3AAA64;"  ><img  src="qwik.png"  width="50"  height="50"  >&nbsp &nbsp &nbsp My QWIKLABS</h2>
+<h2  class="heading"  style ="color:#3AAA64;"  >My QWIKLABS</h2>
 
 <div  class="content">
 
